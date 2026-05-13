@@ -22,6 +22,7 @@
 ## My major goals
 My biggest goal as a software developer is to build a Mainstream Web Application that makes a real difference in people's lives. A tool thats not just functional but solves everday problems and improves how we experience the digital world.
 
+## LinkedIn - www.linkedin.com/in/khalid-alli-balogun-150772399
 
 ## You can contact me through:
 - 📧 khalidallib008@gmail.com
